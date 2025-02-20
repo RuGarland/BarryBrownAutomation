@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+
+    "@cypress/browserify-preprocessor": "3.0.2"
+  }
+
+
+}
